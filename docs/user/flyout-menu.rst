@@ -53,7 +53,7 @@ Styling the flyout
 ~~~~~~~~~~~~~~~~~~
 
 HTML themes can style the flyout to make it match the overall style of the HTML.
-By default the flyout has it's `own CSS file <https://github.com/readthedocs/sphinx_rtd_theme/blob/master/src/sass/_theme_badge.sass>`_,
+By default the flyout has its `own CSS file <https://github.com/readthedocs/sphinx_rtd_theme/blob/master/src/sass/_theme_badge.sass>`_,
 which you can look at to see the basic CSS class names.
 
 The example HTML that the flyout uses is included here,
